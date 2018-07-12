@@ -22,20 +22,20 @@ This template also includes the version 4 of [Bootstrap](https://getbootstrap.co
 # Usage
 1. Clone this repository in your workspace:
     ```
-        git clone ...
+    git clone https://github.com/rmorbach/node-web-template.git
     ```
 2. Install dependencies:
     ```
-        npm install --save
+    npm install --save
     ```
 3. Change web application info in `package.json` file, such as app name, license and so on.
 4. Run the application
     ```
-        nodemon app
+    nodemon app
     ```
     or 
     ```
-        node app
+    node app
     ```
 5. If everything worked, you should be able to reach the page in [http://localhost:8888](http://localhost:8888).
 
